@@ -1,0 +1,47 @@
+
+## Dive into Deep Learning v2
+
+### Related Information
+
+course home：https://courses.d2l.ai/zh-v2/
+
+textbook：https://zh-v2.d2l.ai/
+
+official github: https://github.com/d2l-ai/d2l-zh
+
+### Code
+
+
+
+#### ch11
+* 1_nadaraya-waston
+* 
+
+
+###  
+
+## NTU ML 2023
+
+### Realted Information
+
+course home: https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
+
+
+
+### HW
+
+||Topic|讲解视频|讲义|代码|平台|预备知识(见2021&2022相应章节)|
+|---|---|---|---|---|---|---|
+|x|Colab Tutorial|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=10)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/Colab_Tutorial.pdf)|[code](https://colab.research.google.com/drive/1Qi4-BRqZ3qI3x_Jtr5ci_oRvHDMQpdiW?usp=sharing)|||
+|x|PyTorch Tutorial|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=11)|[slide 1](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/Pytorch_Tutorial_1.pdf)<br>[slide 2](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/Pytorch_Tutorial_2.pdf)|x|x||
+|HW1|Regression|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=12)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW01.pdf)|[code](https://colab.research.google.com/drive/1BESEu-l3qrGRULoATuXnWasUNuUlVF1Z?fbclid=IwAR1FrjUsp4rTy5PPFV-aWq6IG_Z44mFT4VH5e1lIhlekFl7fAvxGRCTCyR0)|[Kaggle](https://www.kaggle.com/t/a339b77fa5214978bfb8dde62d3151fe)||
+|HW2|Classification|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=22)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW02+%E8%81%BD%E6%B8%AC.pdf)|[code](https://colab.research.google.com/drive/1wzeiVy2g7HpSjlidUr0Gi50NnHBWTkvN#scrollTo=KVUGfWTo7_Oj)|[Kaggle](https://www.kaggle.com/t/03ac116596a247219b5a8d7a8e2b800e)||
+|HW3|CNN|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=28)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW03.pdf)|[code](https://colab.research.google.com/drive/15A_8ilH-6-T3HOmSFrKbjDinBJl-s-16)|[Kaggle](https://www.kaggle.com/t/86ca241732c04da99aca6490080bae73)||
+|HW4|Self-attention|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=33)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW04.pdf)|[code](https://colab.research.google.com/drive/1u-610KA-urqfJjDH5O0pecwfP--V9DQs?usp=sharing)|[Kaggle](https://www.kaggle.com/t/49ea0c385a974db5919ec67299ba2e6b)||
+|HW5|Transformer|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=40)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW05.pdf)|[code](https://colab.research.google.com/drive/1qj_J9ld5KR3TTNbU5PnCAKMkDH3vN27p#scrollTo=59neB_Sxp5Ub)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)||
+|HW6|Generative Model|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=41)|[slide](https://docs.google.com/presentation/d/1x8c38zgEbN2zN4EboWhquZ5b3LhVCN8ElhaJCO2vnzY/edit#slide=id.g11dca28fc13_0_140)|[code](https://www.kaggle.com/code/b07202024/hw6-diffusion-model)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)||
+|HW7|BERT|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=47)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW07.pdf)|[code](https://colab.research.google.com/drive/1m0fQjJfkK9vAovxPj9Nd3-hQuxezB2w1)|[Kaggle](https://www.kaggle.com/t/e001cad568dc4d77b6a5e762172f44d6)|
+|HW8|Auto-encoder|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=49)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW08.pdf)|[code](https://colab.research.google.com/drive/1iqvGMVMkmTynKI8UQWaYeXxdQXeO7CKM#scrollTo=YiVfKn-6tXz8)|[Kaggle](https://www.kaggle.com/t/c76950cc460140eba30a576ca7668d28)|
+|HW9|Explainable AI|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=51)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW09.pdf)|[code](https://colab.research.google.com/drive/1w7p96mLz8uPQSCCXYPm1HxDVtLPHPZcS?usp=sharing)|[Gradescope](https://www.gradescope.com/courses/515619)|
+|HW10|Attack|[Video]()|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/HW10.pdf)|[code](https://colab.research.google.com/drive/1GmZI-58gQXxu6VTYHGpf0Ob1iZ8PB4GV?usp=share_link)|[JudgeBoi](https://ml.ee.ntu.edu.tw/home)|
+
