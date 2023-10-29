@@ -39,5 +39,15 @@ https://arxiv.org/abs/1512.03385
 ## Ch11. Attention Mechanisms and Transformers
 
 
+## Ch14. Computer Vision
+
+### 14.1 Image Augmentation
+
+### 14.2 Fine Tuning
+
+### 14.4 Anchor Boxes
+
+### 14.6 The Object Detection Data
+
 
 
