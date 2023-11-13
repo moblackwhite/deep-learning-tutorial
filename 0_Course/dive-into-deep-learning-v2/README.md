@@ -1,3 +1,14 @@
+# Related-Information
+
+course home：https://courses.d2l.ai/zh-v2/
+
+textbook：https://zh-v2.d2l.ai/
+
+official github: https://github.com/d2l-ai/d2l-zh
+
+
+# Chapter
+
 ## Ch4. Linear Neural Networks for Classification
 
 ### 4.2 The Image Classification
@@ -48,6 +59,14 @@ https://arxiv.org/abs/1512.03385
 ### 14.4 Anchor Boxes
 
 ### 14.6 The Object Detection Data
+
+## Ch15 Natural Language Processing: Pretraining
+
+### 15.8 Bidirectional Encoder Representations from Transformers
+
+## Ch16 Natural Language Processing: Applications
+
+### 16.4 Natural Language Inference and the Dataset
 
 
 
