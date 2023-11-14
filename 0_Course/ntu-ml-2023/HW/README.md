@@ -1,5 +1,7 @@
 ### HW
 
+Course Website: https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php
+
 ||Topic|讲解视频|讲义|代码|平台|预备知识(见2021&2022相应章节)|
 |---|---|---|---|---|---|---|
 |x|Colab Tutorial|[Video](https://www.bilibili.com/video/BV1TD4y137mP/?p=10)|[slide](https://speech.ee.ntu.edu.tw/~hylee/ml/ml2023-course-data/Colab_Tutorial.pdf)|[code](https://colab.research.google.com/drive/1Qi4-BRqZ3qI3x_Jtr5ci_oRvHDMQpdiW?usp=sharing)|||
