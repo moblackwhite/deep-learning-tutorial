@@ -68,5 +68,5 @@ https://arxiv.org/abs/1512.03385
 
 ### 16.4 Natural Language Inference and the Dataset
 
-
+## Ch20 Generative Adversarial Networks
 
