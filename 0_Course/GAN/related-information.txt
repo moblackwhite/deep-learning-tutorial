@@ -1,0 +1,10 @@
+Paper: https://arxiv.org/abs/1701.00160
+Video: https://
+
+
+Auto-Encoding Variational Bayes,
+https://arxiv.org/abs/1312.6114
+
+
+Source of images: https://zhuanlan.zhihu.com/p/24767059
+DCGAN: https://github.com/carpedm20/DCGAN-tensorflow
